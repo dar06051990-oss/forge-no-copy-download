@@ -52,7 +52,7 @@ and cleans older temporary files while keeping Forge-style sequential numbering.
 
 ```bash
 cd /path/to/Forge-Neo/extensions
-git clone https://github.com/YOUR_USERNAME/forge-no-copy-download.git
+git clone https://github.com/dar06051990-oss/forge-no-copy-download.git
 ```
 
 Then restart Forge Neo.
